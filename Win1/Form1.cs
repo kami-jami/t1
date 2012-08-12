@@ -14,6 +14,7 @@ namespace Win1
         public Form1()
         {
             InitializeComponent();
+            jamiiiii
         }
     }
 }
